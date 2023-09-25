@@ -2,7 +2,7 @@ jsx
 import React, { useState, useEffect } from "react";
 import Link from "next/link";
 import { Link as LinkScroll } from "react-scroll";
-import ButtonOutline from "../../misc/ButtonOutline";
+import ButtonOutline from "../../misc/ButtonOutline.";
 import LogoSkillGarage from "../../../public/assets/Logo.svg";
 
 const Header = () => {
